@@ -1,0 +1,41 @@
+
+Z:\MSC_CS\2021>dir
+ Volume in drive Z is Data
+ Volume Serial Number is 0EDB-B857
+
+ Directory of Z:\MSC_CS\2021
+
+29-11-2022  14:28    <DIR>          .
+29-11-2022  14:28    <DIR>          ..
+29-11-2022  14:28             5,859 help.txt
+28-11-2022  12:59               137 MyNewFile.txt
+               2 File(s)          5,996 bytes
+               2 Dir(s)     260,452,352 bytes free
+
+Z:\MSC_CS\2021>dir /o:d
+ Volume in drive Z is Data
+ Volume Serial Number is 0EDB-B857
+
+ Directory of Z:\MSC_CS\2021
+
+28-11-2022  12:59               137 MyNewFile.txt
+29-11-2022  14:28    <DIR>          ..
+29-11-2022  14:28    <DIR>          .
+29-11-2022  14:28             5,859 help.txt
+               2 File(s)          5,996 bytes
+               2 Dir(s)     260,452,352 bytes free
+
+Z:\MSC_CS\2021>dir /o:s
+ Volume in drive Z is Data
+ Volume Serial Number is 0EDB-B857
+
+ Directory of Z:\MSC_CS\2021
+
+29-11-2022  14:28    <DIR>          ..
+29-11-2022  14:28    <DIR>          .
+28-11-2022  12:59               137 MyNewFile.txt
+29-11-2022  14:28             5,859 help.txt
+               2 File(s)          5,996 bytes
+               2 Dir(s)     260,452,352 bytes free
+
+Z:\MSC_CS\2021>

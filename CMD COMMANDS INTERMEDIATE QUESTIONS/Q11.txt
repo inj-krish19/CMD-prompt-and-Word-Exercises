@@ -1,0 +1,40 @@
+
+Z:\MSC_CS\2021> xcopy z:\MSC_CS\2021 z:\MSC_CS\2022
+Z:\MSC_CS\2021\help.txt
+Z:\MSC_CS\2021\MyNewFile.txt
+2 File(s) copied
+
+Z:\MSC_CS\2021>dir
+ Volume in drive Z is Data
+ Volume Serial Number is 0EDB-B857
+
+ Directory of Z:\MSC_CS\2021
+
+29-11-2022  14:28    <DIR>          .
+29-11-2022  14:28    <DIR>          ..
+29-11-2022  14:28             5,859 help.txt
+28-11-2022  12:59               137 MyNewFile.txt
+               2 File(s)          5,996 bytes
+               2 Dir(s)     451,162,112 bytes free
+
+Z:\MSC_CS\2021>cd..
+
+Z:\MSC_CS>cd 2022
+
+Z:\MSC_CS\2022>dir
+ Volume in drive Z is Data
+ Volume Serial Number is 0EDB-B857
+
+ Directory of Z:\MSC_CS\2022
+
+29-11-2022  14:38    <DIR>          .
+29-11-2022  14:38    <DIR>          ..
+29-11-2022  14:28             5,859 help.txt
+28-11-2022  12:59               137 MyDetails.txt
+28-11-2022  12:59               137 MyNewFile.txt
+               3 File(s)          6,133 bytes
+               2 Dir(s)     451,158,016 bytes free
+
+Z:\MSC_CS\2022>
+
+

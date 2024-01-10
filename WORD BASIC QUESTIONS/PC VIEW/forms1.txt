@@ -1,0 +1,61 @@
+<html>
+	<head>
+		<title>Html form element</title>
+		
+		
+	</head>
+	
+	<body>
+	
+		<h1>HTML forms element</h1>
+		
+		<form>
+			<div>
+				<label for="name">Enter your name:</label>
+				<input type="text" name="name" id="name" placeholder="Enter your name">
+			</div>
+			<br>
+			<div>
+				<label for="father's name" >Father's name:</label>
+				<input type="text" name="father" id="father's name" placeholder="Enter your father's name">
+			</div>
+			<br>
+			<div>
+				<label for="email">Email:</label>
+				<input type="email" name="email" placeholder="Enter your email address">
+			</div>
+			<br>
+			<div>
+				<label for="password">Password:</label>
+				<input type="password" placeholder="Enter your password">
+			</div>
+			<br>
+			<div>	
+				Date of Birth:<input type="date" placeholder="Enter your Birth-date">
+			</div>
+			<br>
+			<div>
+				<label for="birth-city">Birth Place:</label>
+				<select>
+					<option>Gujarat</option>
+					<option>Kerala</option>
+					<option>Maharashtra</option>
+					<option>Rajasthan</option>
+					<option>Jaipur</option>
+					<option>Andrapradesh</option>
+				</select>
+			</div>
+			<br>
+			<div>
+				<label for="gender">Gender:</label>
+				Male<input type="radio" name= "my gender">
+				Female<input type="radio" name= "my gender">
+				Other<input type="radio" name= "my gender">
+			</div>
+			<br>
+			<div>
+				Verification captcha<input type="checkbox" name="checkbox">
+			</div>
+		</form>
+	</body>
+</html>

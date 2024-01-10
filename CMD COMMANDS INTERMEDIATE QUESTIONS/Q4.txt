@@ -1,0 +1,9 @@
+
+Z:\MSC_CS\2021>md MyDetails.txt
+
+Z:\MSC_CS\2021>rd MyDetails.txt
+
+Z:\MSC_CS\2021>copy con MyDetails.txt
+My Name Is Krish . My Roll No. Is 47 . My Home 's Adrees Is A/18 ,Sector - 5,Near
+ Swaminarayan Temple,NirnayNagar , Ahmedabad - 382481 . ^Z
+        1 file(s) copied.

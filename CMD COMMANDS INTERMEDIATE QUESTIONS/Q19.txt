@@ -1,0 +1,8 @@
+
+Z:\MSC_CS\2021>ATTRIB
+A                    Z:\MSC_CS\2021\help.txt
+A                    Z:\MSC_CS\2021\info.txt
+A                    Z:\MSC_CS\2021\info147.txt
+A                    Z:\MSC_CS\2021\MyNewFile.txt
+
+Z:\MSC_CS\2021>

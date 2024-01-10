@@ -1,0 +1,27 @@
+
+C:\Users\mcs147>c:
+
+C:\Users\mcs147>dir
+ Volume in drive C is Windows8_OS
+ Volume Serial Number is CC4B-7143
+
+ Directory of C:\Users\mcs147
+
+21-11-2022  12:58    <DIR>          .
+21-11-2022  12:58    <DIR>          ..
+21-11-2022  12:38    <DIR>          Contacts
+21-11-2022  12:38    <DIR>          Desktop
+21-11-2022  13:24    <DIR>          Documents
+21-11-2022  13:05    <DIR>          Downloads
+21-11-2022  12:38    <DIR>          Favorites
+21-11-2022  13:02    <DIR>          krish
+21-11-2022  12:38    <DIR>          Links
+21-11-2022  12:38    <DIR>          Music
+21-11-2022  12:38    <DIR>          Pictures
+21-11-2022  12:38    <DIR>          Saved Games
+21-11-2022  12:38    <DIR>          Searches
+21-11-2022  12:38    <DIR>          Videos
+               0 File(s)              0 bytes
+              14 Dir(s)  114,844,991,488 bytes free
+
+

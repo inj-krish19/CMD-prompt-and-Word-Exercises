@@ -1,0 +1,130 @@
+
+@SHAH KRISH J(147) 30-11-2022 >systeminfo
+
+Host Name:                 SYSTEMA4
+OS Name:                   Microsoft Windows 10 Pro
+OS Version:                10.0.19044 N/A Build 19044
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Member Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          Lenovo
+Registered Organization:
+Product ID:                00330-53803-87651-AAOEM
+Original Install Date:     22-01-2022, 18:13:42
+System Boot Time:          19-11-2022, 10:49:32
+System Manufacturer:       LENOVO
+System Model:              11EVS09H00
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 165 Stepping 5 GenuineIntel ~2904 Mhz
+BIOS Version:              LENOVO M2TKT3CA, 08-06-2021
+Windows Directory:         C:\Windows
+System Directory:          C:\Windows\system32
+Boot Device:               \Device\HarddiskVolume3
+System Locale:             en-us;English (United States)
+Input Locale:              00004009
+Time Zone:                 (UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi
+Total Physical Memory:     16,169 MB
+Available Physical Memory: 12,860 MB
+Virtual Memory: Max Size:  18,601 MB
+Virtual Memory: Available: 13,821 MB
+Virtual Memory: In Use:    4,780 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    DCSRCC.com
+Logon Server:              \\WINSERVER
+Hotfix(s):                 6 Hotfix(s) Installed.
+                           [01]: KB5020613
+                           [02]: KB5003791
+                           [03]: KB5019959
+                           [04]: KB5015895
+                           [05]: KB5018506
+                           [06]: KB5005699
+Network Card(s):           4 NIC(s) Installed.
+                           [01]: Intel(R) Wireless-AC 9560 160MHz
+                                 Connection Name: Wi-Fi
+                                 Status:          Media disconnected
+                           [02]: Intel(R) Ethernet Connection (11) I219-V
+                                 Connection Name: Ethernet
+                                 DHCP Enabled:    No
+                                 IP address(es)
+                                 [01]: 172.16.116.4
+                                 [02]: fe80::db07:5888:438a:1431
+                           [03]: Bluetooth Device (Personal Area Network)
+                                 Connection Name: Bluetooth Network Connection
+                                 Status:          Media disconnected
+                           [04]: VirtualBox Host-Only Ethernet Adapter
+                                 Connection Name: VirtualBox Host-Only Network
+                                 DHCP Enabled:    No
+                                 IP address(es)
+                                 [01]: 192.168.56.1
+                                 [02]: fe80::1a8c:151f:8f12:7b9b
+Hyper-V Requirements:      VM Monitor Mode Extensions: Yes
+                           Virtualization Enabled In Firmware: Yes
+                           Second Level Address Translation: Yes
+                           Data Execution Prevention Available: Yes
+
+@SHAH KRISH J(147) 30-11-2022 >copy con info147.txt
+
+Host Name:                 SYSTEMA4
+OS Name:                   Microsoft Windows 10 Pro
+OS Version:                10.0.19044 N/A Build 19044
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Member Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          Lenovo
+Registered Organization:
+Product ID:                00330-53803-87651-AAOEM
+Original Install Date:     22-01-2022, 18:13:42
+System Boot Time:          19-11-2022, 10:49:32
+System Manufacturer:       LENOVO
+System Model:              11EVS09H00
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 165 Stepping 5 GenuineIntel ~2904 Mhz
+BIOS Version:              LENOVO M2TKT3CA, 08-06-2021
+Windows Directory:         C:\Windows
+System Directory:          C:\Windows\system32
+Boot Device:               \Device\HarddiskVolume3
+System Locale:             en-us;English (United States)
+Input Locale:              00004009
+Time Zone:                 (UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi
+Total Physical Memory:     16,169 MB
+Available Physical Memory: 12,860 MB
+Virtual Memory: Max Size:  18,601 MB
+Virtual Memory: Available: 13,821 MB
+Virtual Memory: In Use:    4,780 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    DCSRCC.com
+Logon Server:              \\WINSERVER
+Hotfix(s):                 6 Hotfix(s) Installed.
+                           [01]: KB5020613
+                           [02]: KB5003791
+                           [03]: KB5019959
+                           [04]: KB5015895
+                           [05]: KB5018506
+                           [06]: KB5005699
+Network Card(s):           4 NIC(s) Installed.
+                           [01]: Intel(R) Wireless-AC 9560 160MHz
+                                 Connection Name: Wi-Fi
+                                 Status:          Media disconnected
+                           [02]: Intel(R) Ethernet Connection (11) I219-V
+                                 Connection Name: Ethernet
+                                 DHCP Enabled:    No
+                                 IP address(es)
+                                 [01]: 172.16.116.4
+                                 [02]: fe80::db07:5888:438a:1431
+                           [03]: Bluetooth Device (Personal Area Network)
+                                 Connection Name: Bluetooth Network Connection
+                                 Status:          Media disconnected
+                           [04]: VirtualBox Host-Only Ethernet Adapter
+                                 Connection Name: VirtualBox Host-Only Network
+                                 DHCP Enabled:    No
+                                 IP address(es)
+                                 [01]: 192.168.56.1
+                                 [02]: fe80::1a8c:151f:8f12:7b9b
+Hyper-V Requirements:      VM Monitor Mode Extensions: Yes
+                           Virtualization Enabled In Firmware: Yes
+                           Second Level Address Translation: Yes
+                           Data Execution Prevention Available: Yes
+^Z
+        1 file(s) copied.

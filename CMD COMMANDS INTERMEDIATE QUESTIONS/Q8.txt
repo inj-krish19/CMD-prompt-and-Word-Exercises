@@ -1,0 +1,29 @@
+
+C:\Users\Mcs147>z:
+
+Z:\>MSC_CS
+'MSC_CS' is not recognized as an internal or external command,
+operable program or batch file.
+
+Z:\>CD MSC_CS
+
+Z:\MSC_CS>CD 2021
+
+Z:\MSC_CS\2021>REN MyDetails.txt MyNewFile.txt
+
+Z:\MSC_CS\2021>dir
+ Volume in drive Z is Data
+ Volume Serial Number is 0EDB-B857
+
+ Directory of Z:\MSC_CS\2021
+
+29-11-2022  14:22    <DIR>          .
+29-11-2022  14:22    <DIR>          ..
+28-11-2022  12:59               137 MyNewFile.txt
+               1 File(s)            137 bytes
+               2 Dir(s)     451,358,720 bytes free
+
+Z:\MSC_CS\2021>
+
+
+

@@ -1,0 +1,15 @@
+Microsoft Windows [Version 6.3.9600]
+(c) 2013 Microsoft Corporation. All rights reserved.
+
+C:\Users\Mcs147>z:\MSC_CS\2021   Z:\MSC_CS\2022
+'z:\MSC_CS\2021' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Mcs147>xcopy Z:\MSC_CS\2021 Z:\MSC_CS\2022
+Z:\MSC_CS\2021\MyDetails.txt
+1 File(s) copied
+
+C:\Users\Mcs147>
+
+
+

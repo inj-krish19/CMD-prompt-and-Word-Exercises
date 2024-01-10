@@ -1,0 +1,18 @@
+
+Z:\MSC_CS\2021>DATE
+The current date is: 30-11-2022
+Enter the new date: (dd-mm-yy) (19-02-2005)
+The system cannot accept the date entered.
+Enter the new date: (dd-mm-yy) 19-02-2005
+A required privilege is not held by the client.
+
+Z:\MSC_CS\2021>TIME
+The current time is: 14:14:02.37
+Enter the new time: 12:12:12:12
+The system cannot accept the time entered.
+Enter the new time: 19
+A required privilege is not held by the client.
+
+Z:\MSC_CS\2021>VOL
+ Volume in drive Z is Data
+ Volume Serial Number is 0EDB-B857

@@ -1,0 +1,12 @@
+Microsoft Windows [Version 6.3.9600]
+(c) 2013 Microsoft Corporation. All rights reserved.
+
+C:\Users\Mcs147>z:
+
+Z:\>cd MSC_CS
+
+Z:\MSC_CS>cd 2021
+
+Z:\MSC_CS\2021>type MyDetails.txt
+My Name Is Krish . My Roll No. Is 47 . My Home 's Adrees Is A/18 ,Sector - 5,Near
+Swaminarayan Temple,NirnayNagar , Ahmedabad - 382481 .

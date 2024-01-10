@@ -1,0 +1,7 @@
+
+Z:\MSC_CS\2021>sort MyNewFile.txt
+My Name Is Krish . My Roll No. Is 47 . My Home 's Adrees Is A/18 ,Sector - 5,Near
+Swaminarayan Temple,NirnayNagar , Ahmedabad - 382481 .
+
+Z:\MSC_CS\2021>
+

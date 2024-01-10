@@ -1,0 +1,17 @@
+
+Z:\>CD MSC_CS
+
+Z:\MSC_CS>MD 2021 2022
+
+Z:\MSC_CS>DIR
+ Volume in drive Z is Data
+ Volume Serial Number is 0EDB-B857
+
+ Directory of Z:\MSC_CS
+
+28-11-2022  12:38    <DIR>          .
+28-11-2022  12:38    <DIR>          ..
+28-11-2022  12:38    <DIR>          2021
+28-11-2022  12:38    <DIR>          2022
+               0 File(s)              0 bytes
+               4 Dir(s)     900,616,192 bytes free
